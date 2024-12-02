@@ -136,3 +136,19 @@ The data is available in **8 CSV files**:
 ## Dataset schema:
 
 ![Alt text](https://lh6.googleusercontent.com/ps0KE3yQqTKCax3okKC1E_A8XZ5HF7-B-ur36wk2pgoCpSEidBkUglQOpJ_K8XubsOrxR7aavukqYrZaSL1KcYUk4W4fpjdmdXjIW8dZ9Jh2zekC74LroDR90kJnE0pZk56mytqMfvxbd08PdA)
+
+
+## Observations(Insights):
+
+1. As per this dataset Target has operations in almost 4196 cities situated in 26 States.
+2. There is a growing trend on e-commerce in Brazil, as per the analysis on yearly basis the number of orders have grown enormously since 2016 to 2018.
+3. Highest number of orders are placed in August, followed by May and July, these months fall under winter season.
+4. Brazilian customers tend to buy in the Afternoon and Night, some customers also buy in Morning but the ratio is not that good compared to Afternoon and Night, customers avoid to buy in the dawn.
+5. After analysing the data I found out that the count of orders has grown each and every passing month throughout the years 2016, 2017 and 2018 gradually. This depicts that the customers in Brazil are interested in buying on e-commerce platforms.
+6. 40% of the orders in Brazil are from Sao Paulo, 12% are from Rio de Janeiro and 11% from Minas Gerais. These 3 States combined has 63% orders and rest of the orders are from remaining states.
+7. Highest increase in cost of orders is in the month January 2018 which is 600% compared to January 2017, followed by February, March and April with more than 150% increase in cost of orders.
+8. Top 5 States with highest average freight value are State of Paraiba, State of Roraima, State of Rondonia, Acre and Piaui. Top among these is State of Paraiba and Roraima with highest mean freight value of 43.09.
+9. Top 5 States with lowest average freight value are Sau Paulo, State of Parana, Minas Gerais, Rio de Janeiro and Federal District. Top among these is Sau Paulo with lowest mean freight value of 15.11.
+10. Roraima and Amapa are the states where time taken for delivery of the goods is maximum whereas, Sau Paulo is the state where minimum time is taken for delivery of the goods.
+11. Maximum number of orders are places using Vouchers followed by Debit cards and Credit cards, seems like UPI payment option is not appreciated by Brazilian customers.
+
